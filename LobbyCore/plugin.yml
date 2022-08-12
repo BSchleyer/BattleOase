@@ -1,0 +1,13 @@
+name: LobbyCore
+author: BattleUnity-Development
+api: 4.0.0
+main: battleoase\lobbycore\LobbyCore
+version: 2.0.0
+description: LobbyCore plugin by SyntaxPE.
+permissions:
+  lobby.build:
+    description: Build Perm
+    default: op
+  fly.command:
+    description: Fly Perm
+    default: op

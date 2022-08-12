@@ -1,0 +1,10 @@
+name: BattleCloud-LobbyAPI
+author: ceepkev77
+website: https://github.com/ceepkev77/
+api: 4.0.0
+main: ceepkev77\lobbyapi\LobbyAPI
+version: 1.0.0
+description: BattleCloud-LobbyAPI plugin by ceepkev77.
+softdepend:
+  - BattleCore
+  - CloudBridge

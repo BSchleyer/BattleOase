@@ -1,0 +1,24 @@
+name: BattleCore
+author: BattleOase-Development
+website: https://github.com/ceepkev77/
+api: 4.0.0
+main: battleoase\battlecore\BattleCore
+version: 2.0.0
+load: STARTUP
+description: BattleCore plugin by ceepkev77.
+permissions:
+  npc.command:
+    description: Npc Command
+    default: op
+  event.command:
+    description: Event Command
+    default: op
+  admin:
+    description: ok
+    default: op
+  premium:
+    description: sd
+    default: op
+  supporter:
+    description: ddd
+    default: op

@@ -1,0 +1,20 @@
+{
+  "name": "r3pt1s/cloudsystem",
+  "description": "A cloud system for pocketmine servers with proxy support.",
+  "type": "project",
+  "version": "1.0",
+  "license": "GPL-3.0",
+  "require": {
+    "php": "^8.0",
+    "ext-json": "*",
+    "ext-yaml": "*",
+    "ext-sockets": "*",
+    "ext-pthreads": "^3.0",
+    "ext-phar": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Cloud\\": ["src/Cloud"]
+    }
+  }
+}

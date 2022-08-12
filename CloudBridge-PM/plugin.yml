@@ -1,0 +1,5 @@
+name: CloudBridge
+version: 1.0
+api: 4.0.0
+main: CloudBridge\CloudBridge
+author: r3pt1s

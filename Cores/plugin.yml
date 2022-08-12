@@ -1,0 +1,14 @@
+name: Cores
+version: 1.0-BETA
+api: 4.0.0
+main: xxFLORII\Core\Main
+description: Cores Minigame
+author: xxFLORII
+
+permissions:
+  cores.admin:
+    default: op
+    description: Cores Admin permission
+  game.start:
+    default: op
+    description: Game Start permission

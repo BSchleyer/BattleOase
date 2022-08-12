@@ -1,0 +1,7 @@
+name: SignSystem
+version: 1.0
+api: 4.0.0
+main: SignSystem\SignSystem
+authors:
+  - r3pt1s
+  - ceepkev77

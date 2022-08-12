@@ -1,0 +1,6 @@
+name: KnockFFA
+author: BattleUnity-Development
+api: [ "4.0.0" ]
+main: syntaxpe\knockffa\KnockFFA
+version: 1.0
+description: KnockFFA plugin by SyntaxPE.

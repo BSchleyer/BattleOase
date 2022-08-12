@@ -1,0 +1,8 @@
+name: BedWars
+author: BattleOase-Development
+website: https://github.com/ceepkev77/
+api: 4.0.0
+main: battleoase\bedwars\BedWars
+version: 2.0.0
+load: STARTUP
+description: BedWars plugin by ceepkev77.

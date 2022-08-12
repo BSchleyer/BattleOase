@@ -1,0 +1,8 @@
+name: CloudBridge
+author: ceepkev77
+website: https://github.com/ceepkev77/
+api: 4.0.0
+main: ceepkev77\cloudbridge\CloudBridge
+version: 1.0.0
+load: STARTUP
+description: CloudBridge plugin by ceepkev77.
